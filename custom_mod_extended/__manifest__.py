@@ -10,8 +10,9 @@
     'license': 'OPL-1',
     'description': """Pulls phone number associated with sale order
         """,
-    'depends': ['contacts'],
+    'depends': ['base', 'sale'],
     'data': [
+        'views/views.xml',
     ],
     'installable': True,
     'auto_install': False,

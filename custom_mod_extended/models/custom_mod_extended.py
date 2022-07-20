@@ -9,12 +9,11 @@ class CustomModExtended(models.Model):
     _inherit = 'sale.order'
     cust_number = env['res.partner'].phone
 
-    def():
     
-    return {
-    'cust_number': cust_number,
+    return 
+    #'cust_number': cust_number,
 
 
-    }
+    
     
 

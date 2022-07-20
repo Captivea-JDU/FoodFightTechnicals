@@ -10,7 +10,7 @@ class CustomModExtended(models.Model):
     cust_number = env['res.partner'].phone
 
     
-    return 
+   # return 
     #'cust_number': cust_number,
 
 

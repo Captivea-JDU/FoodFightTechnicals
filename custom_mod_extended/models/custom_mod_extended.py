@@ -5,8 +5,14 @@ import logging
 _logger = logging.getLogger(__name__)
 
 class CustomModExtended(models.Model):
+    def() 
     _inherit = 'sale.order'
     cust_number = env['res.partner'].phone
     
+    return {
+    'cust_number': cust_number,
+
+
+    }
     
 

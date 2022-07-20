@@ -11,11 +11,11 @@ class CustomModExtended(models.Model):
     actual_num = 23
     sum_num = 0
 
-    def addone(cust_number):
-        if cust_number == 25:
-            sum_num = actual_num + cust_number
+   # def addone(cust_number):
+       # if cust_number == 25:
+            #sum_num = actual_num + cust_number
 
-            return sum_num
+        #    return sum_num
 
 
 

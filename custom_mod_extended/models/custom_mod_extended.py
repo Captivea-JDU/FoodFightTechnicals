@@ -14,4 +14,5 @@ class CustomModExtended(models.Model):
     cap_customer_address = fields.Char(string='Customer Address')
     
     
+    
 

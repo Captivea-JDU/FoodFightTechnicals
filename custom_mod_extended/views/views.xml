@@ -9,6 +9,7 @@
 				<field name="cap_customer_nickname"/>
 				<field name="cap_customer_age"/>
 				<field name="cap_customer_address"/>
+				
 			</xpath>
 		</field>
 

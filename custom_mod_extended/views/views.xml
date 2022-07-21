@@ -6,8 +6,6 @@
 		<field name="arch" type="xml">
 			<xpath expr="//form//sheet//group[@name='order_details']" position="after">
 				<field name="cap_customer_phone_number"/>
-				<field name="cap_customer_nickname"/>
-				<field name="cap_customer_age"/>
 			</xpath>
 		</field>
 
